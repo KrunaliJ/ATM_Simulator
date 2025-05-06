@@ -1,4 +1,4 @@
-# ATM_Simulator using python if ststement ,elif ,else, short if,short if..else,and ,or ,not,nested if pass
+# ATM_Simulator using python if statement ,elif ,else, short if,short if..else,and ,or ,not,nested if pass
 
 Lines 1–2
 # Initial balance
